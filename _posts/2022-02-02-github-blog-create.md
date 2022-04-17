@@ -3,8 +3,7 @@ layout: post
 title: github blog 생성
 author: qzce
 description: 
-categories: 
-        - git
+categories: [Blog]
 tags: 
         - git
         - github
