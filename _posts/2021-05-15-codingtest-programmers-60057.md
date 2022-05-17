@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 소수찾기
+title: 문자열 압축
 author: qzce
 description: 
 categories: 
