@@ -20,5 +20,5 @@ node_modules
 package-lock.json
 Gemfile.lock
 
-#test file
+#test files
 /test
