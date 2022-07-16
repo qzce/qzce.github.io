@@ -69,6 +69,8 @@
           https://github.com/{{ site.github.username }}
         {%- elsif entry.type == 'rss' -%}
           {{ "/feed.xml" | relative_url }}
+        {%- elsif entry.type == 'notion' -%}
+          https://heady-year-08b.notion.site/cefade2d04424622b89ba482fc5fefea
         {%- else -%}
           {{ entry.url }}
         {%- endif -%}
