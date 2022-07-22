@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 오픈채팅방
+title: [코딩테스트] 오픈채팅방
 author: qzce
 description: 
 categories: 

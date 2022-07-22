@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 거리두기 확인하기
+title: [코딩테스트] 거리두기 확인하기
 author: qzce
 description: 
 categories: 

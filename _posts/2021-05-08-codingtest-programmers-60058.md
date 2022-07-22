@@ -1,3 +1,4 @@
+---
 layout: post
 title: [코딩테스트] 괄호변환
 author: qzce

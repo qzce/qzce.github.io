@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 소수찾기
+title: [코딩테스트] 소수찾기
 author: qzce
 description: 
 categories: 
